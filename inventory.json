@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": "prod-001",
+            "name": "Manzana Roja",
+            "price": 1.8,
+            "quantity": 25.0
+        },
+        {
+            "id": "prod-002",
+            "name": "Plátano",
+            "price": 0.9,
+            "quantity": 40.0
+        },
+        {
+            "id": "prod-003",
+            "name": "Lechuga",
+            "price": 1.2,
+            "quantity": 15.0
+        },
+        {
+            "id": "prod-004",
+            "name": "Tomate",
+            "price": 2.5,
+            "quantity": 30.75
+        },
+        {
+            "id": "prod-005",
+            "name": "Cebolla",
+            "price": 0.75,
+            "quantity": 50.0
+        },
+        {
+            "id": "prod-006",
+            "name": "Zanahoria",
+            "price": 1.1,
+            "quantity": 60.0
+        }
+    ]
+}

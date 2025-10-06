@@ -1,0 +1,33 @@
+{
+    "orders": [
+        {
+            "id": "order-001",
+            "items": [
+                {
+                    "productId": "prod-001",
+                    "quantity": 1.5
+                },
+                {
+                    "productId": "prod-003",
+                    "quantity": 1.0
+                }
+            ],
+            "total": 4.5,
+            "paid": 5.0,
+            "customer": "Cliente Demo",
+            "timestamp": 1696560000000
+        },
+        {
+            "id": "c27158b3-32cf-4bb3-b5c9-5fe8a55cf0bd",
+            "items": [
+                {
+                    "productId": "prod-001",
+                    "quantity": 0.5
+                }
+            ],
+            "total": 0.9,
+            "paid": 5.0,
+            "timestamp": 1759723204154
+        }
+    ]
+}
